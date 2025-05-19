@@ -1,6 +1,9 @@
 meme_dict = {
             "CRINGE": "Algo excepcionalmente raro o embarazoso",
             "LOL": "Una respuesta común a algo gracioso",
+            "VIRAL": "Contenido que se difunde rápidamente en internet",
+            "HYPE": "Entusiasmo muy grande sobre algo",
+            "RANDOM": "Algo aleatorio",
             }
 
 word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")
